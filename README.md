@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AWS Cloud Developer
 -------------------
 
-I'm a dedicated AWS Cloud Developer passionate about architecting scalable and resilient cloud solutions using various AWS services. I have a proven track record of optimizing infrastructure, automating workflows, and ensuring the security and performance of AWS-based applications.
+I'm a dedicated AWS Cloud Developer passionate about architecting scalable and resilient cloud solutions using various AWS services.
 
 *   🌍  I'm based in the United Kingdom
 *   ✉️  You can contact me at [pporumbescu@gmail.com](mailto:pporumbescu@gmail.com)
